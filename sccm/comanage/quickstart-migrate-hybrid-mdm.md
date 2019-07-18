@@ -50,7 +50,7 @@ A large IT consulting firm in India migrated 40,000 users from Intune hybrid to 
 
 ## Contact FastTrack
 
-If you need assistance migrating from hybrid MDM at any point in the process, go to [Microsoft FastTrack](https://Microsoft.com/FastTrack/), sign in, and request assistance. 
+If you purchased at least 150 EMS licenses (https://www.microsoft.com/en-us/enterprise-mobility-security/compare-plans-and-pricing) and need assistance migrating from hybrid MDM at any point in the process, go to [Microsoft FastTrack](https://Microsoft.com/FastTrack/), sign in, and request assistance. 
 
 For more information, see [Get help from FastTrack](/sccm/comanage/quickstart-fasttrack). 
 
